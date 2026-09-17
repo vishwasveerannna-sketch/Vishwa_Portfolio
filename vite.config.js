@@ -10,5 +10,5 @@ export default defineConfig({
   // Change 'portfolio' below to your actual repository name before deploying.
   // If you deploy to a custom domain or to a <user>.github.io *user* site
   // (a repo literally named <username>.github.io), set this back to '/'.
-  base: '/portfolio/',
+  base: '/Vishwa_Portfolio/',
 })
